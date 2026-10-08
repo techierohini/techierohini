@@ -22,10 +22,11 @@ I've worked on analytics projects across Healthcare, E-commerce, and Logistics &
 
 
 🛠️ Tech Stack
-<p align="left">
-<img
-src='https://skillicons.dev/icons?i=python,mysql,excel,powerbi,git,github" />
-  </p>
+Languages: Python, SQL, DAX
+Libraries: Pandas, NumPy
+Visualization: Power BI, Matplotlib, Seaborn
+Databases: MySQL
+Other: Excel (Power Query, Pivot Tables), GitHub
   
 
 📊 Data Analytics
@@ -51,6 +52,12 @@ src='https://skillicons.dev/icons?i=python,mysql,excel,powerbi,git,github" />
 🔧 Tools
 
 "MySQL Workbench" "Git" "GitHub"
+
+📬 Contact Me
+💼 LinkedIn: Rohini Shahare
+📧 Email: professionalrohini29@gmail.com
+
+
 
 📚 Currently Learning
 
