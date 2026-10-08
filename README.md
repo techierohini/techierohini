@@ -14,10 +14,15 @@ I've worked on analytics projects across Healthcare, E-commerce, and Logistics &
 🚀 What I Do
 
 📌 Analyze — Find trends, patterns, anomalies, and business opportunities
+
 🧹 Clean — Transform raw and messy data into analysis-ready datasets
+
 🗄️ Query — Use SQL to extract and analyze business data
+
 📊 Visualize — Build interactive Power BI dashboards and reports
+
 💡 Interpret — Convert analytical findings into meaningful business insights
+
 🤖 Explore AI — Use AI tools to improve analytical workflows and productivity
 
 
@@ -33,6 +38,7 @@ Databases: MySQL
 
 Other: Excel (Power Query, Pivot Tables), GitHub
   
+
 📬 Contact Me
 
 💼 LinkedIn: Rohini Shahare
@@ -54,13 +60,17 @@ Raw Data → Clean → Transform → Analyze → Visualize → Generate Insights
 I believe a good dashboard isn't just about beautiful visuals —
 it's about answering the right business questions.
 
+
 🌱 Beyond the Dashboard
 
 I'm continuously improving my ability to:
 
 - Translate business problems into analytical questions
+
 - Ask better questions of data
+
 - Communicate insights clearly
+
 - Build portfolio projects based on real-world scenarios
 
 💭 Data tells a story. My job is to find it.
