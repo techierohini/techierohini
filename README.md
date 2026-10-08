@@ -22,6 +22,11 @@ I've worked on analytics projects across Healthcare, E-commerce, and Logistics &
 
 
 🛠️ Tech Stack
+<p align="left">
+<img
+src='https://skillicons.dev/icons?i=python,mysql,excel,powerbi,git,github" />
+  </p>
+  
 
 📊 Data Analytics
 
