@@ -6,7 +6,7 @@ Turning raw data into clear insights and better business decisions.
 
 I'm an aspiring Data Analyst who enjoys exploring data, finding patterns, solving business problems, and turning numbers into meaningful stories.
 
-I build end-to-end analytics projects using SQL, Excel, Power BI, DAX, Power Query, and Python, with a strong focus on data cleaning, business analysis, visualization, and actionable insights.
+I build end-to-end analytics projects using SQL, Excel, Power BI, DAX, Power Query, and Python, with a strong focus on data cleaning, business analysis, visualization and actionable insights.
 
 I've worked on analytics projects across Healthcare, E-commerce, and Logistics & Supply Chain, applying data to real-world business scenarios.
 
@@ -28,44 +28,14 @@ Visualization: Power BI, Matplotlib, Seaborn
 Databases: MySQL
 Other: Excel (Power Query, Pivot Tables), GitHub
   
-
-📊 Data Analytics
-
-"Excel" "Data Cleaning" "Data Validation" "EDA" "Business Analysis"
-
-🗄️ SQL & Databases
-
-"MySQL" "SQL" "Joins" "Subqueries" "CTEs" "Window Functions" "Aggregations"
-
-📈 Business Intelligence
-
-"Power BI" "DAX" "Power Query" "Data Modeling" "Dashboard Development"
-
-🐍 Python
-
-"Python" "Pandas" "NumPy" "Matplotlib"
-
-🤖 AI Tools
-
-"ChatGPT" "Microsoft Copilot" "GitHub Copilot" "Gemini"
-
-🔧 Tools
-
-"MySQL Workbench" "Git" "GitHub"
-
 📬 Contact Me
 💼 LinkedIn: Rohini Shahare
 📧 Email: professionalrohini29@gmail.com
 
 
-
-📚 Currently Learning
-
-🔹 Advanced SQL & Business Problem Solving
-🔹 Power BI & DAX
-🔹 Data Modeling & Analytics
-🔹 Business Intelligence
-🔹 AI-assisted Data Analytics
+📚 Currently Working On
+🔹 Publishing full length PowerBI case studies
+🔹 Expanding SQL case walkthrough 
 
 
 🎯 My Analytics Approach
@@ -83,6 +53,5 @@ I'm continuously improving my ability to:
 - Ask better questions of data
 - Communicate insights clearly
 - Build portfolio projects based on real-world scenarios
-- Learn modern AI-assisted analytics workflows
 
 💭 Data tells a story. My job is to find it.
